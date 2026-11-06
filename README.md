@@ -1,7 +1,7 @@
 # WORKSHOP-2-Object-detection-using-web-camera
 
-## Developed By : NAVASRI B
-## Register No : 212225230196
+### Developed By : NAVASRI B
+### Register No : 212225230196
 
 ## YOLOv8 Object Detection Using Laptop Camera
 ## Aim
