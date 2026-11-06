@@ -18,12 +18,16 @@ Display the detected image with bounding boxes and labels.
 
 ## Algorithm
 Laptop Camera
+
       ↓
 Capture Image
+
       ↓
 Display Image
+
       ↓
 YOLOv8 Detection
+
       ↓
 Display Detected Objects
 
