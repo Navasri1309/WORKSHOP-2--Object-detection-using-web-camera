@@ -41,7 +41,7 @@ model = YOLO("yolov8m.pt")
 ```
 # Open webcam
 cap = cv2.VideoCapture(0)
-```
+``` 
 ```
 # Check if camera opened
 if not cap.isOpened():
