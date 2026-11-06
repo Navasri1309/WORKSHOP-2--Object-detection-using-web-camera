@@ -5,31 +5,30 @@
 To access the laptop camera, capture an image, and detect objects using YOLOv8.
 
 ## Requirements
-Anaconda
-Jupyter Notebook
-Laptop Camera
-Steps
-Open Jupyter Notebook using Anaconda.
-Access your laptop camera using OpenCV.
-Wait for 5 seconds and capture an image.
-Display the captured image.
-Apply YOLOv8 object detection.
-Display the detected image with bounding boxes and labels.
+* Anaconda
+* Jupyter Notebook
+* Laptop Camera
+  
+## Steps
+1.Open Jupyter Notebook using Anaconda.
+2.Access your laptop camera using OpenCV.
+3.Wait for 5 seconds and capture an image.
+4.Display the captured image.
+5.Apply YOLOv8 object detection.
+6.Display the detected image with bounding boxes and labels.
 
 ## Algorithm
+```
 Laptop Camera
-
       ↓
 Capture Image
-
       ↓
 Display Image
-
       ↓
 YOLOv8 Detection
-
       ↓
 Display Detected Objects
+```
 
 ## Program
 ```
